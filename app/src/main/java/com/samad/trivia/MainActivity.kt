@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.drawerlayout.widget.DrawerLayout
 import androidx.navigation.findNavController
 import androidx.navigation.ui.NavigationUI
+import com.google.android.material.navigation.NavigationView
 import com.samad.trivia.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
